@@ -28,6 +28,7 @@ Não sabem como configurar o Ts? Vamos te ajudar!
 
 Durante a palestra, mencionei alguns links e recursos muito importantes. São eles:
 
+- ✅ **[Slides da Apresentação - Back to Future - with TypeScript](https://aka.ms/AA5ugly)**
 - ✅ **[Azure para devs JavaScript & Node.js](https://docs.microsoft.com/pt-br/javascript/azure/?WT.mc_id=theconf2019-github-gllemos&view=azure-node-latest)**
 - ✅ **[Azure for devs JavaScript & Node.js](https://docs.microsoft.com/pt-br/javascript/azure/?view=azure-node-latest&WT.mc_id=theconf2019-github-gllemos)**
 - ✅ **[Azure Free Trial](https://azure.microsoft.com/pt-br/free/?WT.mc_id=theconf2019-github-gllemos)**
