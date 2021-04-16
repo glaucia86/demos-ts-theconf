@@ -6,7 +6,7 @@ Repositório responsável pelas demos feitas durante a palestra no evento **[The
 
 ## Recursos Utilizados 💻
 
-- **[Visual Studio Code](https://code.visualstudio.com/?WT.mc_id=theconf2019-github-gllemos)**
+- **[Visual Studio Code](https://code.visualstudio.com/?WT.mc_id=javascript-0000-gllemos)**
 - **[Node.Js](https://nodejs.org/en/)**
 - **[TypeScript 3.x](https://www.typescriptlang.org/)**
 
@@ -29,12 +29,12 @@ Não sabem como configurar o Ts? Vamos te ajudar!
 Durante a palestra, mencionei alguns links e recursos muito importantes. São eles:
 
 - ✅ **[Slides da Apresentação: Back to Future - with TypeScript](https://aka.ms/AA5ugly)**
-- ✅ **[Azure para devs JavaScript & Node.js](https://docs.microsoft.com/pt-br/javascript/azure/?WT.mc_id=theconf2019-github-gllemos&view=azure-node-latest)**
-- ✅ **[Azure for devs JavaScript & Node.js](https://docs.microsoft.com/pt-br/javascript/azure/?view=azure-node-latest&WT.mc_id=theconf2019-github-gllemos)**
-- ✅ **[Azure Free Trial](https://azure.microsoft.com/pt-br/free/?WT.mc_id=theconf2019-github-gllemos)**
-- ✅ **[TypeScript in Visual Studio Code](https://code.visualstudio.com/Docs/languages/typescript?WT.mc_id=theconf2019-github-gllemos)**
-- ✅ **[Debugging TypeScript](https://code.visualstudio.com/docs/typescript/typescript-debugging?WT.mc_id=theconf2019-github-gllemos)**
-- ✅ **[Cursos Grátis - Microsoft Learn](https://docs.microsoft.com/pt-br/learn/?WT.mc_id=theconf2019-github-gllemos)**
+- ✅ **[Azure para devs JavaScript & Node.js](https://docs.microsoft.com/javascript/azure/?WT.mc_id=javascript-0000-gllemos&view=azure-node-latest)**
+- ✅ **[Azure for devs JavaScript & Node.js](https://docs.microsoft.com/javascript/azure/?view=azure-node-latest&WT.mc_id=javascript-0000-gllemos)**
+- ✅ **[Azure Free Trial](https://azure.microsoft.com/free/?WT.mc_id=javascript-0000-gllemos)**
+- ✅ **[TypeScript in Visual Studio Code](https://code.visualstudio.com/Docs/languages/typescript?WT.mc_id=javascript-0000-gllemos)**
+- ✅ **[Debugging TypeScript](https://code.visualstudio.com/docs/typescript/typescript-debugging?WT.mc_id=javascript-0000-gllemos)**
+- ✅ **[Cursos Grátis - Microsoft Learn](https://docs.microsoft.com/learn/?WT.mc_id=javascript-0000-gllemos)**
 
 
 ## Dúvidas?! ❗️❗️
